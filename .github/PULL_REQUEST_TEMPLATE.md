@@ -19,7 +19,7 @@ STOP! Click the 'Preview' tab for a smoother PR experience!
 <table>
   <tr>
     <td><b>Documentation</b><br/>Just changing documentation - NO CODE CHANGES</td>
-    <td><a href="?expand=1&template=documentation.md">click here</a></td>
+    <td><a href="?expand=1&template=docs.md">click here</a></td>
   </tr>
   <tr>
     <td><b>Java code</b><br/>Updated code in `/Java` folder</td>
